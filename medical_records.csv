@@ -1,0 +1,8 @@
+id,patient_name,age,gender,hospital_name,visit_date,complaint,diagnosis,doctor_name,follow_up
+1,Atharv Sharma,12,Male,Apollo Hospital,2023-12-11,Back Pain,Inflamation,Dr Ajay Kumar,Yes
+2,Sheldon Cooper,38,Male,Sagar Hospital,2025-02-01,Fever,Viral Infection,Dr Sumit Verma,No
+3,Ishita Nair,55,Female,Apollo Hospital,2025-11-15,Knee Pain,Arithritis,Dr Nehal Jain,Yes
+4,Sharad Tripathi,26,Male,Bansal Hospital,2024-01-17,Redness in Eyes,Allergy to Dust,Dr Ajay Kumar,Yes
+5,Shreya Das,34,Female,Galaxy Hospital,2021-05-13,Back Pain,Poor Posture,Dr. Raj Sharma,Yes
+6,Pranav Chauhan,12,Male,Shiv Hospital,2024-02-16,Weakness,Dehydration,Dr Atul Verma,No
+7,Atharv Sharma,12,Male,Bansal Hospital,2024-11-23,Fever,Cold,Dr Ishika Dubey,No
